@@ -1,9 +1,4 @@
-/* 
- * File:   dequeuUsingArray.cpp
- * Author: Piyush
- *
- * Created on September 30, 2018, 3:08 PM
- */
+
 
 #include <iostream>
 #include <cstdlib>
